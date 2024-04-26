@@ -60,5 +60,28 @@
             "harga": "10.000",
             "link": "#"
         }
+    ],
+    "dessert": [
+        {
+            "nama": "Tiramisu Cake",
+            "size": "1 slice",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://www.allthingsmamma.com/wp-content/uploads/2022/07/tiramisu-cake-hero-07-scaled.jpg"
+        },
+        {
+            "nama": "Pudding Coklat",
+            "size": "1 pcs",
+            "harga": "12.000",
+            "link": "#",
+            "foto": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/08/01021524/Ini-Cara-Membuat-Puding-Coklat-Favorit-Keluarga-di-Rumah-.jpg"
+        },
+        {
+            "nama": "Mochi",
+            "size": "1 pcs",
+            "harga": "12.000",
+            "link": "#",
+            "foto": "https://jogja.disway.id/upload/6fe432cd555f6180e95994a85ccc5dea.jpg"
+        }
     ]
 }
