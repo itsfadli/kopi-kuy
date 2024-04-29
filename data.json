@@ -3,65 +3,100 @@
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
+            "size": "250 ml",
+            "harga": "25.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
+            "nama": "Americano",
+            "size": "250 ml",
+            "harga": "28.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "size": "250 ml",
+            "harga": "30.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Long Black",
+            "size": "250 ml",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://img-global.cpcdn.com/recipes/3d673f9738097a4f/680x482cq70/440-long-black-coffee-foto-resep-utama.jpg"
         }
     ],
     "Robusta": [
         {
             "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
+            "nama": "Kopi susu Robusta",
+            "size": "250 ml",
+            "harga": "25.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
+            "size": "250 ml",
+            "harga": "30.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Hazelnut Mocha",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://images.ctfassets.net/v601h1fyjgba/3bxPeyxH6YlWxBUlPuCgPE/9ac292d4d71ac65d6ec53ee51f3534ab/Mocha_Hazelnut_Latte.jpg"
+        },
+        {
+            "nama": "Caramel Machiato",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://images.ctfassets.net/v601h1fyjgba/7ndAMJpSr0vGnWyUGHlygd/40c1dd45124f636097b2775a09c290c6/Caramel_Macchiato.jpg"
         }
     ],
     "Non-Kopi": [
         {
-            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
-            "nama": "Ice Cream",
-            "size": "100 Gram",
-            "harga": "10.000",
-            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
-        },
-        {
             "nama": "Jus alpukat",
             "size": "250 ml",
-            "harga": "18.000",
+            "harga": "15.000",
             "link": "",
             "foto": "https://cdn.idntimes.com/content-images/post/20200513/80804982-1633679013439729-4856995162210626944-n-e76c8100d5dd1d2e835cbc2edf086597.jpg"
         },
         {
             "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
             "nama": "Es Teh Manis",
-            "size": "350 Ml",
+            "size": "250 ml",
             "harga": "10.000",
             "link": "#"
+        },
+        {
+            "nama": "Thai Tea",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://sakiproducts.com/cdn/shop/articles/20230310181037-thai-tea-recipe_1200x1200.webp?v=1678471844"
+        },
+        {
+            "nama": "Matcha",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://images.getrecipekit.com/20230809095327-mango-20matcha.jpg?class=16x9"
         }
     ],
-    "dessert": [
+    "Dessert": [
+        {
+            "foto": "https://lautan-natural-krimerindo.com/wp-content/uploads/2023/07/7-Resep-Es-Krim-Cokelat-Rumahan-yang-Lezat.jpg",
+            "nama": "Ice Cream Coklat",
+            "size": "1 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
         {
             "nama": "Tiramisu Cake",
             "size": "1 slice",
@@ -71,13 +106,13 @@
         },
         {
             "nama": "Pudding Coklat",
-            "size": "1 pcs",
-            "harga": "12.000",
+            "size": "1 cup",
+            "harga": "10.000",
             "link": "#",
             "foto": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/08/01021524/Ini-Cara-Membuat-Puding-Coklat-Favorit-Keluarga-di-Rumah-.jpg"
         },
         {
-            "nama": "Mochi",
+            "nama": "Mochi Strawberry",
             "size": "1 pcs",
             "harga": "12.000",
             "link": "#",

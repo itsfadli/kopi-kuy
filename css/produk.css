@@ -32,3 +32,18 @@ section.produk {
 }
 
 /* Tambahan css produk tulis setelah kode ini */
+
+@font-face {
+    src: url(../fonts/poppins.woff2);
+    font-family: 'Poppins';
+}
+
+label[for="select_kopi"] {
+    color: white;
+}
+
+
+/* Mengatur lebar dropdown menu */
+.small-select {
+    width: 30%;
+}
